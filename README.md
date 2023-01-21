@@ -21,10 +21,10 @@ Languages:
 </p>
 
 <br>
-<p align="center">
+<a align="center" href="https://github.com/Nusab19">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nusab19&show_icons=true&locale=en&layout=compact" alt="Nusab19"/>
   
   
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Nusab19&show_icons=true&locale=en" alt="Nusab19" />
-</p>
+</a>
 
