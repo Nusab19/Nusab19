@@ -13,15 +13,18 @@ Languages:
 <br><br>
 
 <p align="center">
-Visitors Count: 
+<h2>Visitors Count:</h2>
+<br>
+
 <img src="https://profile-counter.glitch.me/Nusab19/count.svg">
+
 </p>
 
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nusab19&show_icons=true&locale=en&layout=compact" alt="Nusab19"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nusab19&show_icons=true&locale=en&layout=compact" alt="Nusab19"/>
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Nusab19&show_icons=true&locale=en" alt="Nusab19" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Nusab19&show_icons=true&locale=en" alt="Nusab19" />
 </p>
 
