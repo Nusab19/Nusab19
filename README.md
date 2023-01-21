@@ -1,6 +1,6 @@
 <h1>A Developer from Bangladesh.</h1>
 
-I make softwares, bots, API etc and do Competitive Programming.
+I make softwares, bots, API etc. and do Competitive Programming.
 Languages:
 
 <ul>
