@@ -1,7 +1,8 @@
 <h1>A Developer from Bangladesh.</h1>
 
 I make softwares, bots, API etc. and do Competitive Programming.
-Languages:
+
+Languages I use:
 
 <ul>
 <li>Python <img height="15px" src="https://te.legra.ph/file/2157f7e384e3fb7183e49.jpg"></li>
