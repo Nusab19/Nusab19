@@ -31,3 +31,16 @@ Languages I use:
 </a>
 </p>
 
+<h2 align="center">Contact Me</h2>
+
+<p align="left">
+<a href="https://t.me/Nusab19">
+  <img height="23px" src="https://img.shields.io/badge/-Nusab19-00a5c9?style=flat&logo=Telegram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/NusabTaha">
+  <img height="23px" src="https://img.shields.io/badge/-Nusab Taha-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
+<a href="mailto:nusabtaha33@gmail.com">
+  <img height="23px" src="https://img.shields.io/badge/-Nusab-d14836?style=flat&logo=Gmail&logoColor=white">
+</a>
+</p>
