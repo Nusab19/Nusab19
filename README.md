@@ -23,7 +23,7 @@ Languages I use:
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/golang.svg" width="48" height="48" alt="Golang" />
+        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/golang.svg" width="60" height="60" alt="Golang" />
         <br>Golang
       </td>
       <td align="center" width="96">
