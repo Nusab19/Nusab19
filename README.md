@@ -7,60 +7,32 @@ I make softwares, bots, API etc. and do Competitive Programming.
 Languages I use:
 
 
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <a href="#macropower-tech" >
-          <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/javascript.svg" width="48" height="48" alt="Kubernetes" />
-        </a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/python.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/cpp.svg" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/javascript.svg" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/html5.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>CSS3
-    </td>
-
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/github.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>GitHub
-    </td>
-        <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/linux.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Bash
-    </td>
-  </tr>
-  
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/golang.svg" width="48" height="48" alt="Golang" />
+        <br>Golang
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Nusab19/Nusab19/main/images/html.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+    </tr>
+  </table>
+</div>
 </table>
 </div>
 
