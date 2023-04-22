@@ -1,5 +1,8 @@
-<h1>Hi there! I'm Nusab</h1> I make softwares, bots, API etc. and do Competitive Programming. <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<h1>Hi there! I'm Nusab</h1>
+
+<p>I make softwares, bots, APIs and websites. I also love to do Competitive Programming.</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h1>Languages I use:</h1>
 <div align="center">
     <table>
