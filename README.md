@@ -1,10 +1,10 @@
-<h1>A Developer from Bangladesh.</h1>
+<h1>Hi there! I'm Nusab</h1>
 
 I make softwares, bots, API etc. and do Competitive Programming.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Languages I use:
+<h1>Languages I use:</h1>
 
 
 <div align="center">
@@ -39,12 +39,11 @@ Languages I use:
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+  <h2 align="center" >Visitors Count:</h2>
+
 <p align="center">
-  <h2>Visitors Count:</h2>
-  <br>
-
-  <img src="https://profile-counter.glitch.me/Nusab19/count.svg">
-
+  <img height="50" src="https://profile-counter.glitch.me/Nusab19/count.svg">
 </p>
 
 <br>
