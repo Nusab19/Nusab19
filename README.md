@@ -59,10 +59,12 @@ Languages I use:
 
 <h2 align="center">Contact Me</h2>
 
-<div display="flex" justify-content="space-between">
+<div>
+  <p margin-right="100px">
   <a href="https://t.me/Nusab19" target="_blank">
     <img height="23px" src="https://img.shields.io/badge/-Nusab19-00a5c9?style=flat&logo=Telegram&logoColor=white">
   </a>
+  </p>
   <a href="https://www.linkedin.com/in/nusabtaha" target="_blank">
     <img height="23px" src="https://img.shields.io/badge/-Nusab Taha-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
