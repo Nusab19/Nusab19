@@ -36,13 +36,6 @@ Languages I use:
 </table>
 </div>
 
-<ul>
-  <li>Python <img height="15px" src="https://te.legra.ph/file/2157f7e384e3fb7183e49.jpg"></li>
-  <li>JavaScript <img height="15px" src="https://te.legra.ph/file/a4a46aabbf9de93ad08ba.jpg"></li>
-  <li>C++ <img height="15px" src="https://te.legra.ph/file/80ae15e1b783256d708bf.jpg"></li>
-  <li>Html and Css <img height="23px" src="https://te.legra.ph/file/0491cd6eb4f07d0a9735f.jpg"></li>
-</ul>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -66,14 +59,14 @@ Languages I use:
 
 <h2 align="center">Contact Me</h2>
 
-<p align="left">
-<a href="https://t.me/Nusab19" target="_blank">
-<img height="23px" src="https://img.shields.io/badge/-Nusab19-00a5c9?style=flat&logo=Telegram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/nusabtaha" target="_blank">
-<img height="23px" src="https://img.shields.io/badge/-Nusab Taha-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-<a href="mailto:nusabtaha33@gmail.com">
-<img height="23px" src="https://img.shields.io/badge/-Nusab-d14836?style=flat&logo=Gmail&logoColor=white">
-</a>
-</p>
+<div display="flex" justify-content="space-between">
+  <a href="https://t.me/Nusab19" target="_blank">
+    <img height="23px" src="https://img.shields.io/badge/-Nusab19-00a5c9?style=flat&logo=Telegram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/nusabtaha" target="_blank">
+    <img height="23px" src="https://img.shields.io/badge/-Nusab Taha-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:nusabtaha33@gmail.com">
+    <img height="23px" src="https://img.shields.io/badge/-Nusab-d14836?style=flat&logo=Gmail&logoColor=white">
+  </a>
+</div>
