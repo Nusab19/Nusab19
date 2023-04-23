@@ -2,9 +2,11 @@
 
 <p>I make softwares, bots, APIs and websites. I also love to do Competitive Programming.
     <br>
-My skills in Backend are way better than my Frontend's! 😅
+My skills in Backend are way better than my Frontend! 😅
 </p>
 
+<h3>My Portfolio Website</h3>
+<p>https://nusab19.pages.dev<br>https://nusab19.github.io<br><b>Both have the same content, but github pages is a bit slower</b></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h1>Languages I use:</h1>
 <div align="center">
