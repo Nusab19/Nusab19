@@ -1,9 +1,9 @@
-<h1>Hi there! I'm Nusab</h1>
+<b>Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh. I have extensive experience in Python, and specialize in building APIs, websites, and bots. I'm also skilled in other programming languages such as C++, Javascript, Nodejs, and Golang.
+</b>
 
-<p>I make softwares, bots, APIs and websites. I also love to do Competitive Programming.
-    <br>
-My skills in Backend are way better than my Frontend! 😅
-</p>
+While I enjoy working on both front-end and back-end projects, I'm particularly drawn to the challenges of <b>back-end </b>development. I have contributed to several open-source projects, and I'm always looking for new ways to expand my skills and knowledge.
+
+If you're interested in collaborating on a project or learning more about my work, please feel free to browse my GitHub repositories. I'm always open to new opportunities and can't wait to see what we can create together!
 
 <h3>My Portfolio Website</h3>
 <p>https://nusab19.pages.dev<br>https://nusab19.github.io<br><b>Both have the same content, but github pages is a bit slower</b></p>
