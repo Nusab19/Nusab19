@@ -70,3 +70,11 @@ If you're interested in collaborating on a project or learning more about my wor
         <img height="23px" src="https://img.shields.io/badge/-Nusab-d14836?style=flat&logo=Gmail&logoColor=white" />
     </a>
 </div>
+
+# Competitive Programming
+<p>
+    Toph: <a href="https://toph.co/u/Nusab19">@Nusab19</a><br>
+    CodeForces: <a href="https://codeforces.com/profile/Nusab19">@Nusab19</a><br>
+    HackerRank: <a href="https://www.hackerrank.com/Nusab19">@Nusab19</a><br>
+    
+</p>
