@@ -52,8 +52,9 @@ If you're interested in collaborating on a project or learning more about my wor
         <img height="191px"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=Nusab19&show_icons=true&locale=en&layout=compact"
             alt="Nusab19" />
-        <img height="191px" src="https://github-readme-stats.vercel.app/api?username=Nusab19&show_icons=true&locale=en"
+        <!--<img height="191px" src="https://github-readme-stats.vercel.app/api?username=Nusab19&show_icons=true&locale=en"
             alt="Nusab19" />
+        -->
     </a>
 </p>
 <h2 align="center">Contact Me</h2>
