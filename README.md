@@ -50,9 +50,9 @@ If you're interested in collaborating on a project or learning more about my wor
 <p align="center">
     <a href="https://github.com/Nusab19">
         <img height="191px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusab19&layout=compact&theme=dracula"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusab19&layout=compact&theme=radical"
             alt="Nusab19's Language Stats" />
-        <img height="191px" src="https://github-readme-stats.vercel.app/api?username=Nusab19&rank_icon=github&theme=dracula"
+        <img height="191px" src="https://github-readme-stats.vercel.app/api?username=Nusab19&rank_icon=github&theme=radical"
             alt="Nusab19's Github Status" />
     </a>
 </p>
