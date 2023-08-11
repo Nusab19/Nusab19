@@ -7,7 +7,7 @@ While I enjoy working on both front-end and back-end projects, I'm particularly 
 If you're interested in collaborating on a project or learning more about my work, please feel free to browse my GitHub repositories. I'm always open to new opportunities and can't wait to see what we can create together!
 
 <h3>My Portfolio Website</h3>
-<p>https://nusab19.pages.dev<br>https://nusab19.github.io/src<br><b>Both have the same content, but github pages one is depricated as it is built by command</b></p>
+<p>https://nusab19.pages.dev/<br>https://nusab19.github.io/<br><b>Both have the same content, but github pages is a bit slower.</b></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h1>Languages I use:</h1>
 <div align="center">
