@@ -11,7 +11,7 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 - JavaScript : Moderate     ( Frequently used )
 - C++        : Fundamentals ( Occasionally used )
 - Perl       : Fundamentals ( Occasionally used )
-- Ruby3       : Basic       ( Occasionally used )
+- Ruby3      : Basic       ( Occasionally used )
 - Next.js    : Moderate     ( Frequently used )
 - FastAPI    : Intermediate ( Frequently used )
 ```
