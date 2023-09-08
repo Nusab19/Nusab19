@@ -8,15 +8,17 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 ### Languages and Frameworks
 ```
 - Python     : Intermediate ( Frequently used )
-- JavaScript : Moderate ( Frequently used )
-- C++        : Fundamental ( Occasionally used )
-- Next.js    : Moderate ( Frequently used )
+- JavaScript : Moderate     ( Frequently used )
+- C++        : Fundamentals ( Occasionally used )
+- Perl       : Fundamentals ( Occasionally used )
+- Ruby3       : Basic       ( Occasionally used )
+- Next.js    : Moderate     ( Frequently used )
 - FastAPI    : Intermediate ( Frequently used )
 ```
 
 ### Tools
 ```
-- Editors    : Visual Studio Code, Sublime Text
+- Editors    : Visual Studio Code, Sublime Text 3
 - OS         : Windows, Linux
 - Others     : Git, GitHub, Terminal, MongoDB
 ```
