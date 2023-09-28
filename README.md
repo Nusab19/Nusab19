@@ -5,13 +5,13 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/touhidurrr/iplist-youtube/pull/4) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
-2. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738495870) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
-3. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738456041) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
-4. ❗ Opened issue [#476](https://github.com/anmol098/waka-readme-stats/issues/476) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738302521) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
-6. 🎉 Merged PR [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
-7. 🗣 Commented on [#674](https://github.com/modularml/mojo/issues/674#issuecomment-1736569686) in [modularml/mojo](https://github.com/modularml/mojo)
+1. ❌ Closed PR [#4](https://github.com/touhidurrr/iplist-youtube/pull/4) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
+2. 🗣 Commented on [#4](https://github.com/touhidurrr/iplist-youtube/pull/4#issuecomment-1738704572) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
+3. 💪 Opened PR [#4](https://github.com/touhidurrr/iplist-youtube/pull/4) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
+4. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738495870) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
+5. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738456041) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
+6. ❗ Opened issue [#476](https://github.com/anmol098/waka-readme-stats/issues/476) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+7. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738302521) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
 <!--END_SECTION:activity-->
 ## About Me
 
