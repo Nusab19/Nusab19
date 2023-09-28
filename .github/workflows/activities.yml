@@ -15,3 +15,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_EMAIL: nusubot@gmail.com
+          MAX_LINES: 7
+          COMMIT_NAME: NusuBot
