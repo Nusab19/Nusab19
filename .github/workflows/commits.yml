@@ -1,0 +1,30 @@
+name: Commits
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "Updated dev metrics"
+          COMMIT_USERNAME: "nusubot"
+          COMMIT_EMAIL: "nusubot@gmail.com"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_COMMIT: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_SHORT_INFO: "False"
+          
