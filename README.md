@@ -13,7 +13,6 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 6. ❗ Opened issue [#14643](https://github.com/JonathanGin52/JonathanGin52/issues/14643) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 7. ❗ Opened issue [#14642](https://github.com/JonathanGin52/JonathanGin52/issues/14642) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
-
 ## About Me
 
 ### Languages and Frameworks
