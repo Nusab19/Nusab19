@@ -35,6 +35,12 @@ My Portfolio Website showcases my projects and skills. You can visit it at:
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Nusab19&theme=tokyo-night&custom_title=Nusab19%27s%20Actitivity&hide_border=true)](https://github.com/Nusab19?tab=repositories)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1#issuecomment-1738302521) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
+2. 🎉 Merged PR [#1](https://github.com/Nusab19/__contest-hive-backend/pull/1) in [Nusab19/__contest-hive-backend](https://github.com/Nusab19/__contest-hive-backend)
+3. 🗣 Commented on [#674](https://github.com/modularml/mojo/issues/674#issuecomment-1736569686) in [modularml/mojo](https://github.com/modularml/mojo)
+4. 🗣 Commented on [#674](https://github.com/modularml/mojo/issues/674#issuecomment-1736091072) in [modularml/mojo](https://github.com/modularml/mojo)
+5. ❗ Opened issue [#14644](https://github.com/JonathanGin52/JonathanGin52/issues/14644) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+<!--END_SECTION:activity-->
 
 ## Visitors Count
 ![Visitors Count](https://profile-counter.glitch.me/Nusab19/count.svg)
