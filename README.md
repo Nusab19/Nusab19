@@ -33,9 +33,8 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 - Others     : Git, GitHub, Terminal, MongoDB
 ```
 
-### Learning
-- Docker
-- Go
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My Portfolio Website
 My Portfolio Website showcases my projects and skills. You can visit it at:
