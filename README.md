@@ -5,8 +5,8 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
-2. 💪 Opened PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+1. 🎉 Merged PR [#2](https://github.com/Contest-Hive/Contest-Hive/pull/2) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 💪 Opened PR [#2](https://github.com/Contest-Hive/Contest-Hive/pull/2) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 🗣 Commented on [#4](https://github.com/touhidurrr/iplist-youtube/pull/4#issuecomment-1738732988) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
 4. ❌ Closed PR [#4](https://github.com/touhidurrr/iplist-youtube/pull/4) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
 5. 🗣 Commented on [#4](https://github.com/touhidurrr/iplist-youtube/pull/4#issuecomment-1738704572) in [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube)
