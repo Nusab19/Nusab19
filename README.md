@@ -5,13 +5,13 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/kevquirk/100daystooffload.com-website/pull/7#issuecomment-1747500699) in [kevquirk/100daystooffload.com-website](https://github.com/kevquirk/100daystooffload.com-website)
-2. 🎉 Merged PR [#7](https://github.com/Contest-Hive/Contest-Hive/pull/7) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-3. 🎉 Merged PR [#6](https://github.com/Contest-Hive/Contest-Hive/pull/6) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-4. 🚀 Published release [v1.0 (stable)](https://github.com/Contest-Hive/Contest-Hive/releases/tag/Latest) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-5. 🎉 Merged PR [#5](https://github.com/Contest-Hive/Contest-Hive/pull/5) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-6. 💪 Opened PR [#5](https://github.com/Contest-Hive/Contest-Hive/pull/5) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-7. 🎉 Merged PR [#4](https://github.com/Contest-Hive/Contest-Hive/pull/4) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 💪 Opened PR [#1301](https://github.com/kevquirk/512kb.club/pull/1301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+2. 🗣 Commented on [#1300](https://github.com/kevquirk/512kb.club/pull/1300#issuecomment-1747575301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+3. ❌ Closed PR [#1300](https://github.com/kevquirk/512kb.club/pull/1300) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+4. 💪 Opened PR [#1300](https://github.com/kevquirk/512kb.club/pull/1300) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+5. 🗣 Commented on [#7](https://github.com/kevquirk/100daystooffload.com-website/pull/7#issuecomment-1747500699) in [kevquirk/100daystooffload.com-website](https://github.com/kevquirk/100daystooffload.com-website)
+6. 🎉 Merged PR [#7](https://github.com/Contest-Hive/Contest-Hive/pull/7) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+7. 🎉 Merged PR [#6](https://github.com/Contest-Hive/Contest-Hive/pull/6) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 <!--END_SECTION:activity-->
 ## About Me
 
