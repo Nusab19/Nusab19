@@ -1,3 +1,6 @@
+## Notice
+I'll be unavailable until the first week of November.
+
 # Introduction
 ## Nusab Taha - Passionate Programmer
 
