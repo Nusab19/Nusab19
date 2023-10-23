@@ -36,15 +36,11 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 - Others     : Git, GitHub, Terminal, MongoDB
 ```
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## My Portfolio Website
 My Portfolio Website showcases my projects and skills. You can visit it at:
 - [https://nusab19.pages.dev/](https://nusab19.pages.dev/)
 - [https://nusab19.github.io/](https://nusab19.github.io/)
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Nusab19&theme=tokyo-night&custom_title=Nusab19%27s%20Actitivity&hide_border=true)](https://github.com/Nusab19?tab=repositories)
 
 
 ## Visitors Count
