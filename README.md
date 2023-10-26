@@ -1,6 +1,9 @@
-## Notice
-I'll be unavailable until the first week of November.
+# --- Important ---
+## I'm be mostly unavailable until further notice
 
+
+---------------------------------------------------
+---------------------------------------------------
 # Introduction
 ## Nusab Taha - Passionate Programmer
 
