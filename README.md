@@ -1,13 +1,7 @@
-# --- Important ---
-## I'll be mostly unavailable until further notice
-
-
----------------------------------------------------
----------------------------------------------------
 # Introduction
 ## Nusab Taha - Passionate Programmer
 
-Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
+Hi there, I'm Nusab, a passionate programmer from Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
@@ -22,7 +16,7 @@ Hi there, I'm Nusab Taha, a passionate programmer based in Bangladesh.
 ## About Me
 
 ### Languages and Frameworks
-```
+```text
 - Python     : Intermediate ( Frequently used )
 - JavaScript : Moderate     ( Frequently used )
 - C++        : Fundamentals ( Occasionally used )
