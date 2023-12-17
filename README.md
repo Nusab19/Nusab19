@@ -5,9 +5,9 @@ Hi there, I'm Nusab, a passionate programmer from Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1320](https://github.com/kevquirk/512kb.club/pull/1320) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
-2. 🎉 Merged PR [#2](https://github.com/Nusab19/512kb.club/pull/2) in [Nusab19/512kb.club](https://github.com/Nusab19/512kb.club)
-3. 💪 Opened PR [#2](https://github.com/Nusab19/512kb.club/pull/2) in [Nusab19/512kb.club](https://github.com/Nusab19/512kb.club)
+1. ❗ Opened issue [#11](https://github.com/uthsobcb/ongkon/issues/11) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
+2. 🗣 Commented on [#9](https://github.com/uthsobcb/ongkon/issues/9#issuecomment-1859263281) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
+3. 💪 Opened PR [#10](https://github.com/uthsobcb/ongkon/pull/10) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
 4. ❌ Closed PR [#1301](https://github.com/kevquirk/512kb.club/pull/1301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 5. 🗣 Commented on [#7](https://github.com/kevquirk/100daystooffload.com-website/pull/7#issuecomment-1747500699) in [kevquirk/100daystooffload.com-website](https://github.com/kevquirk/100daystooffload.com-website)
 6. 🎉 Merged PR [#7](https://github.com/Contest-Hive/Contest-Hive/pull/7) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
