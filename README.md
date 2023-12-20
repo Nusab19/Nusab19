@@ -5,7 +5,7 @@ Hi there, I'm Nusab, a passionate programmer from Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/uthsobcb/ongkon/issues/11) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
+1. 🗣 Commented on [#434](https://github.com/cookpete/react-player/issues/434#issuecomment-1865051192) in [cookpete/react-player](https://github.com/cookpete/react-player)
 2. 🗣 Commented on [#9](https://github.com/uthsobcb/ongkon/issues/9#issuecomment-1859263281) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
 3. 💪 Opened PR [#10](https://github.com/uthsobcb/ongkon/pull/10) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
 4. ❌ Closed PR [#1301](https://github.com/kevquirk/512kb.club/pull/1301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
