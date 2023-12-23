@@ -1,7 +1,6 @@
 # Introduction
-## Nusab Taha - Passionate Programmer
 
-Hi there, I'm Nusab, a passionate programmer from Bangladesh.
+Hi there, I'm Nusab Taha, a passionate programmer from Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
@@ -15,29 +14,29 @@ Hi there, I'm Nusab, a passionate programmer from Bangladesh.
 <!--END_SECTION:activity-->
 ## About Me
 
-### Languages and Frameworks
+### Skills
 ```text
-- Python     : Intermediate ( Frequently used )
+- Python     : Expert       ( Frequently used )
 - JavaScript : Moderate     ( Frequently used )
+- Next.js    : Intermediate ( Frequently used )
+- MongoDB    : Intermediate ( Frequently used )
+- Git        : Moderate     ( Frequently used )
+- FastAPI    : Intermediate ( Occasionally used )
 - C++        : Fundamentals ( Occasionally used )
 - Perl       : Fundamentals ( Occasionally used )
-- Ruby3      : Basic        ( Occasionally used )
-- Next.js    : Moderate     ( Frequently used )
-- FastAPI    : Intermediate ( Frequently used )
+- Ruby3      : Fundamentals ( Occasionally used )
 ```
 
-### Tools
+### Others
 ```
-- Editors    : Visual Studio Code, Sublime Text 3
+- Editors    : Visual Studio Code, Sublime Text 3, Focus
 - OS         : Windows, Linux
-- Others     : Git, GitHub, Terminal, MongoDB
 ```
 
 
 ## My Portfolio Website
-My Portfolio Website showcases my projects and skills. You can visit it at:
+> My Portfolio Website showcases my projects and skills. You can visit it at:
 - [https://nusab19.pages.dev/](https://nusab19.pages.dev/)
-- [https://nusab19.github.io/](https://nusab19.github.io/)
 
 
 ## Visitors Count
