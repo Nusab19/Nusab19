@@ -14,17 +14,22 @@ Hi there, I'm Nusab Taha, a passionate programmer from Bangladesh.
 <!--END_SECTION:activity-->
 ## About Me
 
+> The Expertise of the skills are named after Codeforces' rank title
+![image](https://github.com/Nusab19/Nusab19/assets/85403795/5cbfeec4-a3de-4dcd-b5d2-4915805b8d87)
+
 ### Skills
 ```text
-- Python     : Expert       ( Frequently used )
-- JavaScript : Moderate     ( Frequently used )
-- Next.js    : Intermediate ( Frequently used )
-- MongoDB    : Intermediate ( Frequently used )
-- Git        : Moderate     ( Frequently used )
-- FastAPI    : Intermediate ( Occasionally used )
-- C++        : Fundamentals ( Occasionally used )
-- Perl       : Fundamentals ( Occasionally used )
-- Ruby3      : Fundamentals ( Occasionally used )
+| Language   | Expertise            | Use Frequency      | 
+----------------------------------------------------------
+- Python     : International Master ( Frequently used )
+- JavaScript : Expert               ( Frequently used )
+- Next.js    : Candidate Master     ( Frequently used )
+- MongoDB    : Expert               ( Frequently used )
+- Git        : Specialist           ( Frequently used )
+- FastAPI    : Master               ( Occasionally used )
+- C++        : Pupil                ( Occasionally used )
+- Perl       : Pupil                ( Occasionally used )
+- Ruby3      : Pupil                ( Occasionally used )
 ```
 
 ### Others
