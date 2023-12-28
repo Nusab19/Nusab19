@@ -4,7 +4,7 @@ Hi there, I'm Nusab Taha, a passionate programmer from Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Nusab19/ContestsAPI/pull/2) in [Nusab19/ContestsAPI](https://github.com/Nusab19/ContestsAPI)
+1. ❌ Closed PR [#2](https://github.com/nditc/EVYA-AI/pull/2) in [nditc/EVYA-AI](https://github.com/nditc/EVYA-AI)
 2. 💪 Opened PR [#2](https://github.com/Nusab19/ContestsAPI/pull/2) in [Nusab19/ContestsAPI](https://github.com/Nusab19/ContestsAPI)
 3. 💪 Opened PR [#10](https://github.com/uthsobcb/ongkon/pull/10) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
 4. ❌ Closed PR [#1301](https://github.com/kevquirk/512kb.club/pull/1301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
