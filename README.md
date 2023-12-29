@@ -1,6 +1,15 @@
 # Introduction
 
-I'm Nusab Taha, a Full Stack Developer based in Bangladesh.
+I'm Nusab Taha, a Full Stack Developer.
+
+## About Me
+
+* 🌍  I'm based in Bangladesh
+* 🖥️  See my portfolio at [my website](http://nusab19.pages.dev)
+* ✉️  You can contact me at [nusabtaha33@gmail.com](mailto:nusabtaha33@gmail.com)
+* 🤝  I'm open to collaborating on interesting and useful projects
+* ⚡  Even though I'm a full stack developer, I prefer working in the Backend
+
 
 ### Recent Activities
 <!--START_SECTION:activity-->
@@ -26,6 +35,7 @@ I'm Nusab Taha, a Full Stack Developer based in Bangladesh.
 - Next.js    : Candidate Master     ( Frequently used )
 - MongoDB    : Expert               ( Frequently used )
 - Git        : Specialist           ( Frequently used )
+- Figma      : Specialist           ( Frequently used )
 - FastAPI    : Master               ( Occasionally used )
 - C++        : Pupil                ( Occasionally used )
 - Perl       : Pupil                ( Occasionally used )
@@ -37,11 +47,6 @@ I'm Nusab Taha, a Full Stack Developer based in Bangladesh.
 - Editors    : Visual Studio Code, Sublime Text 3, Focus
 - OS         : Windows, Linux
 ```
-
-
-## My Portfolio Website
-> My Portfolio Website showcases my projects and skills. You can visit it at:
-- [https://nusab19.pages.dev/](https://nusab19.pages.dev/)
 
 
 ## Visitors Count
