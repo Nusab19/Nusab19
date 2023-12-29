@@ -1,6 +1,6 @@
 # Introduction
 
-Hi there, I'm Nusab Taha, a passionate programmer from Bangladesh.
+I'm Nusab Taha, a Full Stack Developer based in Bangladesh.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
