@@ -13,8 +13,8 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/nditc/EVYA-AI/pull/2) in [nditc/EVYA-AI](https://github.com/nditc/EVYA-AI)
-2. 💪 Opened PR [#2](https://github.com/Nusab19/ContestsAPI/pull/2) in [Nusab19/ContestsAPI](https://github.com/Nusab19/ContestsAPI)
+1. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/TG-Quran-Bot/pull/3) in [The-Quran-Project/TG-Quran-Bot](https://github.com/The-Quran-Project/TG-Quran-Bot)
+2. 💪 Opened PR [#3](https://github.com/The-Quran-Project/TG-Quran-Bot/pull/3) in [The-Quran-Project/TG-Quran-Bot](https://github.com/The-Quran-Project/TG-Quran-Bot)
 3. 💪 Opened PR [#10](https://github.com/uthsobcb/ongkon/pull/10) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
 4. ❌ Closed PR [#1301](https://github.com/kevquirk/512kb.club/pull/1301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 5. 🗣 Commented on [#7](https://github.com/kevquirk/100daystooffload.com-website/pull/7#issuecomment-1747500699) in [kevquirk/100daystooffload.com-website](https://github.com/kevquirk/100daystooffload.com-website)
