@@ -13,13 +13,13 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/TG-Quran-Bot/pull/3) in [The-Quran-Project/TG-Quran-Bot](https://github.com/The-Quran-Project/TG-Quran-Bot)
-2. 💪 Opened PR [#3](https://github.com/The-Quran-Project/TG-Quran-Bot/pull/3) in [The-Quran-Project/TG-Quran-Bot](https://github.com/The-Quran-Project/TG-Quran-Bot)
-3. 💪 Opened PR [#10](https://github.com/uthsobcb/ongkon/pull/10) in [uthsobcb/ongkon](https://github.com/uthsobcb/ongkon)
-4. ❌ Closed PR [#1301](https://github.com/kevquirk/512kb.club/pull/1301) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
-5. 🗣 Commented on [#7](https://github.com/kevquirk/100daystooffload.com-website/pull/7#issuecomment-1747500699) in [kevquirk/100daystooffload.com-website](https://github.com/kevquirk/100daystooffload.com-website)
-6. 🎉 Merged PR [#7](https://github.com/Contest-Hive/Contest-Hive/pull/7) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-7. 🎉 Merged PR [#6](https://github.com/Contest-Hive/Contest-Hive/pull/6) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🔒 Closed issue [#2](https://github.com/The-Quran-Project/Quran-API/issues/2) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2. 🗣 Commented on [#2](https://github.com/The-Quran-Project/Quran-API/issues/2#issuecomment-2037746188) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+4. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+5. 🗣 Commented on [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29#issuecomment-2034627487) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
+6. ❗ Opened issue [#31](https://github.com/nomandhoni-cs/blink-eye/issues/31) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
+7. 🗣 Commented on [#22](https://github.com/nomandhoni-cs/blink-eye/issues/22#issuecomment-2032961164) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
 <!--END_SECTION:activity-->
 ## About Me
 
