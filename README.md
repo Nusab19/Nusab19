@@ -13,13 +13,13 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/The-Quran-Project/Quran-API/issues/2) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-2. 🗣 Commented on [#2](https://github.com/The-Quran-Project/Quran-API/issues/2#issuecomment-2037746188) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-3. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-4. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-5. 🗣 Commented on [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29#issuecomment-2034627487) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
-6. ❗ Opened issue [#31](https://github.com/nomandhoni-cs/blink-eye/issues/31) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
-7. 🗣 Commented on [#22](https://github.com/nomandhoni-cs/blink-eye/issues/22#issuecomment-2032961164) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
+1. 🎉 Merged PR [#12](https://github.com/Contest-Hive/Contest-Hive/pull/12) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 💪 Opened PR [#12](https://github.com/Contest-Hive/Contest-Hive/pull/12) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+3. 🔒 Closed issue [#2](https://github.com/The-Quran-Project/Quran-API/issues/2) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+4. 🗣 Commented on [#2](https://github.com/The-Quran-Project/Quran-API/issues/2#issuecomment-2037746188) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+5. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+6. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+7. 🗣 Commented on [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29#issuecomment-2034627487) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
 <!--END_SECTION:activity-->
 ## About Me
 
