@@ -13,8 +13,8 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/pyrogram/pyrogram/issues/101#issuecomment-2057716166) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. 💪 Opened PR [#12](https://github.com/Contest-Hive/Contest-Hive/pull/12) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🗣 Commented on [#101](https://github.com/pyrogram/pyrogram/issues/101#issuecomment-2060714289) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 💪 Opened PR [#3400](https://github.com/neetcode-gh/leetcode/pull/3400) in [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode)
 3. 🔒 Closed issue [#2](https://github.com/The-Quran-Project/Quran-API/issues/2) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 🗣 Commented on [#2](https://github.com/The-Quran-Project/Quran-API/issues/2#issuecomment-2037746188) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
