@@ -13,11 +13,11 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/The-Quran-Project/The-Quran-Bot/pull/4) in [The-Quran-Project/The-Quran-Bot](https://github.com/The-Quran-Project/The-Quran-Bot)
-2. 💪 Opened PR [#4](https://github.com/The-Quran-Project/The-Quran-Bot/pull/4) in [The-Quran-Project/The-Quran-Bot](https://github.com/The-Quran-Project/The-Quran-Bot)
-3. 🔒 Closed issue [#2](https://github.com/The-Quran-Project/Quran-API/issues/2) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-4. 🗣 Commented on [#2](https://github.com/The-Quran-Project/Quran-API/issues/2#issuecomment-2037746188) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-5. 🎉 Merged PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🎉 Merged PR [#6](https://github.com/The-Quran-Project/Quran-API/pull/6) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2. 💪 Opened PR [#6](https://github.com/The-Quran-Project/Quran-API/pull/6) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. 🗣 Commented on [#4](https://github.com/The-Quran-Project/Quran-API/issues/4#issuecomment-2067112545) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+4. 🎉 Merged PR [#5](https://github.com/The-Quran-Project/Quran-API/pull/5) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+5. 💪 Opened PR [#5](https://github.com/The-Quran-Project/Quran-API/pull/5) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 7. 🗣 Commented on [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29#issuecomment-2034627487) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
 <!--END_SECTION:activity-->
