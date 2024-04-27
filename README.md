@@ -13,10 +13,10 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Contest-Hive/Contest-Hive/pull/13) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-2. 💪 Opened PR [#13](https://github.com/Contest-Hive/Contest-Hive/pull/13) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-3. 🗣 Commented on [#4](https://github.com/The-Quran-Project/Quran-API/issues/4#issuecomment-2067112545) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-4. 🎉 Merged PR [#5](https://github.com/The-Quran-Project/Quran-API/pull/5) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🎉 Merged PR [#2](https://github.com/Nusab19/Contest-Hive/pull/2) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+2. 🎉 Merged PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+3. 💪 Opened PR [#2](https://github.com/Nusab19/Contest-Hive/pull/2) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+4. 💪 Opened PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
 5. 💪 Opened PR [#5](https://github.com/The-Quran-Project/Quran-API/pull/5) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 7. 🗣 Commented on [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29#issuecomment-2034627487) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
