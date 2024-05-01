@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Contest-Hive/Contest-Hive/pull/15) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. ❗ Opened issue [#30](https://github.com/fnky/fnky/issues/30) in [fnky/fnky](https://github.com/fnky/fnky)
 2. 💪 Opened PR [#15](https://github.com/Contest-Hive/Contest-Hive/pull/15) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 💪 Opened PR [#2](https://github.com/Nusab19/Contest-Hive/pull/2) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
 4. 💪 Opened PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
