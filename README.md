@@ -28,18 +28,18 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Skills
 ```text
-| Language   | Expertise            | Use Frequency      | 
+| Language   | Expertise            | Usage Frequency      | 
 ----------------------------------------------------------
-- Python     : International Master ( Frequently used )
-- JavaScript : Expert               ( Frequently used )
-- Next.js    : Candidate Master     ( Frequently used )
-- MongoDB    : Expert               ( Frequently used )
-- Git        : Specialist           ( Frequently used )
-- Figma      : Specialist           ( Frequently used )
-- FastAPI    : Master               ( Occasionally used )
-- C++        : Pupil                ( Occasionally used )
-- Perl       : Pupil                ( Occasionally used )
-- Ruby3      : Pupil                ( Occasionally used )
+- Python     : International Master ( Frequently )
+- JavaScript : Expert               ( Frequently )
+- Next.js    : Candidate Master     ( Frequently )
+- MongoDB    : Expert               ( Frequently )
+- Git        : Specialist           ( Frequently )
+- Figma      : Specialist           ( Frequently )
+- FastAPI    : Master               ( Occasionally )
+- C++        : Pupil                ( Occasionally )
+- Perl       : Pupil                ( Occasionally )
+- Ruby3      : Pupil                ( Occasionally )
 ```
 
 ### Others
