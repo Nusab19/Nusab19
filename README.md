@@ -13,13 +13,13 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-2. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-3. 🔒 Closed issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-4. 💪 Opened PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
-5. 💪 Opened PR [#5](https://github.com/The-Quran-Project/Quran-API/pull/5) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-6. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-7. 🗣 Commented on [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29#issuecomment-2034627487) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
+1. 🔒 Closed issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2. 🎉 Merged PR [#8](https://github.com/The-Quran-Project/Quran-API/pull/8) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. 🗣 Commented on [#4](https://github.com/The-Quran-Project/Quran-API/issues/4#issuecomment-2229634240) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+4. 💪 Opened PR [#8](https://github.com/The-Quran-Project/Quran-API/pull/8) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+5. 🔓 Reopened issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+6. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+7. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 <!--END_SECTION:activity-->
 ## About Me
 
