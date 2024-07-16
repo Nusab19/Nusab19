@@ -13,9 +13,9 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-2. 🔒 Closed issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-3. 💪 Opened PR [#2](https://github.com/Nusab19/Contest-Hive/pull/2) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+1. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. 🔒 Closed issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#1](https://github.com/Nusab19/Contest-Hive/pull/1) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
 5. 💪 Opened PR [#5](https://github.com/The-Quran-Project/Quran-API/pull/5) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 💪 Opened PR [#3](https://github.com/The-Quran-Project/Quran-API/pull/3) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
