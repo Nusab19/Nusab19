@@ -1,6 +1,6 @@
 # Introduction
 
-I'm Nusab Taha, a Full Stack Developer.
+I'm Nusab Taha, a Full Stack Web Developer.
 
 ## About Me
 
@@ -44,7 +44,7 @@ I'm Nusab Taha, a Full Stack Developer.
 
 ### Others
 ```
-- Editors    : Visual Studio Code, Sublime Text 3, Focus
+- Editors    : Visual Studio Code, Sublime Text 3
 - OS         : Windows, Linux
 ```
 
