@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/The-Quran-Project/The-Quran-Bot/pull/6) in [The-Quran-Project/The-Quran-Bot](https://github.com/The-Quran-Project/The-Quran-Bot)
+1. 🗣 Commented on [#1220](https://github.com/shadcn-ui/ui/issues/1220#issuecomment-2353608933) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 2. 💪 Opened PR [#6](https://github.com/The-Quran-Project/The-Quran-Bot/pull/6) in [The-Quran-Project/The-Quran-Bot](https://github.com/The-Quran-Project/The-Quran-Bot)
 3. 🗣 Commented on [#4](https://github.com/The-Quran-Project/Quran-API/issues/4#issuecomment-2229634240) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#8](https://github.com/The-Quran-Project/Quran-API/pull/8) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
