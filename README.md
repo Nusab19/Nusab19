@@ -1,6 +1,6 @@
 # Introduction
 
-I'm Nusab Taha, a Full Stack Web Developer.
+I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. But depending on the needs, I also use other frameworks.
 
 ## About Me
 
@@ -13,20 +13,20 @@ I'm Nusab Taha, a Full Stack Web Developer.
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/The-Quran-Project/Quran-API/issues/9#issuecomment-2399325053) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-2. 🔒 Closed issue [#9](https://github.com/The-Quran-Project/Quran-API/issues/9) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🗣 Commented on [#1220](https://github.com/shadcn-ui/ui/issues/1220#issuecomment-2353608933) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 💪 Opened PR [#6](https://github.com/The-Quran-Project/The-Quran-Bot/pull/6) in [The-Quran-Project/The-Quran-Bot](https://github.com/The-Quran-Project/The-Quran-Bot)
 3. 🗣 Commented on [#4](https://github.com/The-Quran-Project/Quran-API/issues/4#issuecomment-2229634240) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#8](https://github.com/The-Quran-Project/Quran-API/pull/8) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🔓 Reopened issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 7. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 <!--END_SECTION:activity-->
-## About Me
+
+### Skills
 
 > The Expertise of the skills are named after Codeforces' rank title
 ![image](https://github.com/Nusab19/Nusab19/assets/85403795/5cbfeec4-a3de-4dcd-b5d2-4915805b8d87)
 
-### Skills
 ```text
 | Language   | Expertise            | Usage Frequency      | 
 ----------------------------------------------------------
@@ -56,7 +56,7 @@ I'm Nusab Taha, a Full Stack Web Developer.
 ## Visitors Count
 ![Visitors Count](https://profile-counter.glitch.me/Nusab19/count.svg)
 
-## Contact Me
+## Contact me at any of these ( higher ones are preferred )
 - Telegram: [Nusab19](https://t.me/Nusab19)
 - LinkedIn: [Nusab Taha](https://www.linkedin.com/in/nusabtaha)
 - Email: [nusabtaha33@gmail.com](mailto:nusabtaha33@gmail.com?subject=Contact%20from%20GitHub%20Readme&body=Hello%20Nusab,%0D%0A%0D%0AI%20found%20your%20GitHub%20repository%20and%20would%20like%20to%20connect%20with%20you.%0D%0A%0D%0ARegards,%0D%0A[Your%20Name])
