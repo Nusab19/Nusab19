@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/pyrogram/pyrogram/issues/101#issuecomment-2420569359) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. 🎉 Merged PR [#1](https://github.com/Nusab19/The-Quran-Bot/pull/1) in [Nusab19/The-Quran-Bot](https://github.com/Nusab19/The-Quran-Bot)
 2. 🗣 Commented on [#11](https://github.com/The-Quran-Project/Quran-API/issues/11#issuecomment-2420566579) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 3. 🎉 Merged PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4. 💪 Opened PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
