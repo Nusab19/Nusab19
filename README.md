@@ -13,9 +13,9 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#667](https://github.com/tdlib/telegram-bot-api/issues/667#issuecomment-2513330920) in [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
-2. 💪 Opened PR [#25](https://github.com/Contest-Hive/Contest-Hive/pull/25) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-3. 🎉 Merged PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🗣 Commented on [#667](https://github.com/tdlib/telegram-bot-api/issues/667#issuecomment-2514891202) in [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
+2. 🔒 Closed issue [#667](https://github.com/tdlib/telegram-bot-api/issues/667) in [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
+3. 🗣 Commented on [#13](https://github.com/The-Quran-Project/Quran-API/issues/13#issuecomment-2514887900) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 5. 🔓 Reopened issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
