@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#667](https://github.com/tdlib/telegram-bot-api/issues/667#issuecomment-2514891202) in [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
+1. 🎉 Merged PR [#26](https://github.com/Contest-Hive/Contest-Hive/pull/26) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 2. 🔒 Closed issue [#667](https://github.com/tdlib/telegram-bot-api/issues/667) in [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
 3. 🗣 Commented on [#13](https://github.com/The-Quran-Project/Quran-API/issues/13#issuecomment-2514887900) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
