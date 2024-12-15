@@ -13,13 +13,13 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Contest-Hive/Contest-Hive/pull/28) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-2. 💪 Opened PR [#28](https://github.com/Contest-Hive/Contest-Hive/pull/28) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-3. 🎉 Merged PR [#27](https://github.com/Contest-Hive/Contest-Hive/pull/27) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-4. 💪 Opened PR [#27](https://github.com/Contest-Hive/Contest-Hive/pull/27) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-5. 🗣 Commented on [#11](https://github.com/robvanbakel/gotiny-api/issues/11#issuecomment-2543923313) in [robvanbakel/gotiny-api](https://github.com/robvanbakel/gotiny-api)
-6. 💪 Opened PR [#4082](https://github.com/public-apis/public-apis/pull/4082) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-7. 💪 Opened PR [#4081](https://github.com/public-apis/public-apis/pull/4081) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+1. 🗣 Commented on [#4083](https://github.com/public-apis/public-apis/pull/4083#issuecomment-2544071358) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 💪 Opened PR [#4083](https://github.com/public-apis/public-apis/pull/4083) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 🎉 Merged PR [#29](https://github.com/Contest-Hive/Contest-Hive/pull/29) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+4. 💪 Opened PR [#29](https://github.com/Contest-Hive/Contest-Hive/pull/29) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+5. 🗣 Commented on [#4082](https://github.com/public-apis/public-apis/pull/4082#issuecomment-2544067038) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+6. 🎉 Merged PR [#28](https://github.com/Contest-Hive/Contest-Hive/pull/28) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+7. 💪 Opened PR [#28](https://github.com/Contest-Hive/Contest-Hive/pull/28) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 <!--END_SECTION:activity-->
 
 ### Skills
