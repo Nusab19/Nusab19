@@ -13,9 +13,9 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/The-Quran-Project/Quran-API/issues/12) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-2. 🔒 Closed issue [#13](https://github.com/The-Quran-Project/Quran-API/issues/13) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-3. 🗣 Commented on [#13](https://github.com/The-Quran-Project/Quran-API/issues/13#issuecomment-2514887900) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 💪 Opened PR [#4081](https://github.com/public-apis/public-apis/pull/4081) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 🔒 Closed issue [#12](https://github.com/The-Quran-Project/Quran-API/issues/12) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. 🔒 Closed issue [#13](https://github.com/The-Quran-Project/Quran-API/issues/13) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 5. 🔓 Reopened issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
