@@ -13,11 +13,11 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4081](https://github.com/public-apis/public-apis/pull/4081) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🔒 Closed issue [#12](https://github.com/The-Quran-Project/Quran-API/issues/12) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-3. 🔒 Closed issue [#13](https://github.com/The-Quran-Project/Quran-API/issues/13) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-4. 💪 Opened PR [#21](https://github.com/Contest-Hive/Contest-Hive/pull/21) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-5. 🔓 Reopened issue [#4](https://github.com/The-Quran-Project/Quran-API/issues/4) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🗣 Commented on [#11](https://github.com/robvanbakel/gotiny-api/issues/11#issuecomment-2543923313) in [robvanbakel/gotiny-api](https://github.com/robvanbakel/gotiny-api)
+2. 💪 Opened PR [#4082](https://github.com/public-apis/public-apis/pull/4082) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 💪 Opened PR [#4081](https://github.com/public-apis/public-apis/pull/4081) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+4. 🔒 Closed issue [#12](https://github.com/The-Quran-Project/Quran-API/issues/12) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+5. 🔒 Closed issue [#13](https://github.com/The-Quran-Project/Quran-API/issues/13) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 6. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 7. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 <!--END_SECTION:activity-->
