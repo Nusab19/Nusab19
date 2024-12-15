@@ -13,11 +13,11 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/robvanbakel/gotiny-api/issues/11#issuecomment-2543923313) in [robvanbakel/gotiny-api](https://github.com/robvanbakel/gotiny-api)
-2. 💪 Opened PR [#4082](https://github.com/public-apis/public-apis/pull/4082) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-3. 💪 Opened PR [#4081](https://github.com/public-apis/public-apis/pull/4081) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-4. 🔒 Closed issue [#12](https://github.com/The-Quran-Project/Quran-API/issues/12) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-5. 🔒 Closed issue [#13](https://github.com/The-Quran-Project/Quran-API/issues/13) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🎉 Merged PR [#27](https://github.com/Contest-Hive/Contest-Hive/pull/27) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 💪 Opened PR [#27](https://github.com/Contest-Hive/Contest-Hive/pull/27) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+3. 🗣 Commented on [#11](https://github.com/robvanbakel/gotiny-api/issues/11#issuecomment-2543923313) in [robvanbakel/gotiny-api](https://github.com/robvanbakel/gotiny-api)
+4. 💪 Opened PR [#4082](https://github.com/public-apis/public-apis/pull/4082) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+5. 💪 Opened PR [#4081](https://github.com/public-apis/public-apis/pull/4081) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 6. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229542622) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 7. 🗣 Commented on [#7](https://github.com/The-Quran-Project/Quran-API/issues/7#issuecomment-2229501467) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 <!--END_SECTION:activity-->
