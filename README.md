@@ -32,12 +32,13 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 ----------------------------------------------------------
 - Python     : Grandmaster          ( Frequently )
 - JavaScript : Expert               ( Frequently )
-- Next.js    : Candidate Master     ( Frequently )
+- React      : Master               ( Frequently )
+- Next.js    : International Master ( Frequently )
 - MongoDB    : Expert               ( Frequently )
 - Git        : Specialist           ( Frequently )
-- Figma      : Specialist           ( Frequently )
+- Figma      : Expert               ( Frequently )
 - FastAPI    : Master               ( Occasionally )
-- C++        : Pupil                ( Occasionally )
+- C++        : Specialist           ( Occasionally )
 - Perl       : Pupil                ( Occasionally )
 - Ruby3      : Pupil                ( Occasionally )
 ```
