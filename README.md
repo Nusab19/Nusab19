@@ -30,7 +30,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 ```text
 | Language   | Expertise            | Usage Frequency      | 
 ----------------------------------------------------------
-- Python     : International Master ( Frequently )
+- Python     : Grandmaster          ( Frequently )
 - JavaScript : Expert               ( Frequently )
 - Next.js    : Candidate Master     ( Frequently )
 - MongoDB    : Expert               ( Frequently )
