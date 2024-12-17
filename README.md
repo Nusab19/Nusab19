@@ -57,12 +57,13 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 ## Visitors Count
 ![Visitors Count](https://profile-counter.glitch.me/Nusab19/count.svg)
 
-## Contact me at any of these ( higher ones are preferred )
-- Telegram: [Nusab19](https://t.me/Nusab19)
-- LinkedIn: [Nusab Taha](https://www.linkedin.com/in/nusabtaha)
-- Email: [nusabtaha33@gmail.com](mailto:nusabtaha33@gmail.com?subject=Contact%20from%20GitHub%20Readme&body=Hello%20Nusab,%0D%0A%0D%0AI%20found%20your%20GitHub%20repository%20and%20would%20like%20to%20connect%20with%20you.%0D%0A%0D%0ARegards,%0D%0A[Your%20Name])
+## Contact me at
+- Telegram   : [@Nusab19](https://t.me/Nusab19)
+- X (Twitter): [@Nusab19](https://x.com/Nusab19)
+- LinkedIn   : [Nusab Taha](https://www.linkedin.com/in/nusabtaha)
+- Email      : [nusabtaha33@gmail.com](mailto:nusabtaha33@gmail.com?subject=Contact%20from%20GitHub%20Readme&body=Hello%20Nusab,%0D%0A%0D%0AI%20found%20your%20GitHub%20repository%20and%20would%20like%20to%20connect%20with%20you.%0D%0A%0D%0ARegards,%0D%0A[Your%20Name])
 
 ## Competitive Programming
-- Toph: [@Nusab19](https://toph.co/u/Nusab19)
-- CodeForces: [@Nusab19](https://codeforces.com/profile/Nusab19)
-- HackerRank: [@Nusab19](https://www.hackerrank.com/Nusab19)
+- Toph       : [@Nusab19](https://toph.co/u/Nusab19)
+- CodeForces : [@Nusab19](https://codeforces.com/profile/Nusab19)
+- HackerRank : [@Nusab19](https://www.hackerrank.com/Nusab19)
