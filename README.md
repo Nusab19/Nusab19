@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Contest-Hive/Contest-Hive/pull/31) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. ❗ Opened issue [#12](https://github.com/ThePrimeagen/anime/issues/12) in [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime)
 2. 💪 Opened PR [#31](https://github.com/Contest-Hive/Contest-Hive/pull/31) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 🗣 Commented on [#4083](https://github.com/public-apis/public-apis/pull/4083#issuecomment-2544071358) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 4. 💪 Opened PR [#4083](https://github.com/public-apis/public-apis/pull/4083) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
