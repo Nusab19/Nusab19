@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Contest-Hive/Contest-Hive/pull/32) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🗣 Commented on [#2863](https://github.com/shadcn-ui/ui/issues/2863#issuecomment-2629109067) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 2. 💪 Opened PR [#32](https://github.com/Contest-Hive/Contest-Hive/pull/32) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 🗣 Commented on [#4083](https://github.com/public-apis/public-apis/pull/4083#issuecomment-2544071358) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 4. 💪 Opened PR [#4083](https://github.com/public-apis/public-apis/pull/4083) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
