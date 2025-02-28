@@ -13,9 +13,9 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/t3dotgg/unduck/issues/16#issuecomment-2688241073) in [t3dotgg/unduck](https://github.com/t3dotgg/unduck)
-2. 💪 Opened PR [#2](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/2) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-3. 🗣 Commented on [#4083](https://github.com/public-apis/public-apis/pull/4083#issuecomment-2544071358) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+1. 🎉 Merged PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+2. 💪 Opened PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+3. 🗣 Commented on [#16](https://github.com/t3dotgg/unduck/issues/16#issuecomment-2688241073) in [t3dotgg/unduck](https://github.com/t3dotgg/unduck)
 4. 💪 Opened PR [#4083](https://github.com/public-apis/public-apis/pull/4083) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 5. 🎉 Merged PR [#29](https://github.com/Contest-Hive/Contest-Hive/pull/29) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 6. 💪 Opened PR [#29](https://github.com/Contest-Hive/Contest-Hive/pull/29) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
