@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/2) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+1. 🗣 Commented on [#16](https://github.com/t3dotgg/unduck/issues/16#issuecomment-2688241073) in [t3dotgg/unduck](https://github.com/t3dotgg/unduck)
 2. 💪 Opened PR [#2](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/2) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
 3. 🗣 Commented on [#4083](https://github.com/public-apis/public-apis/pull/4083#issuecomment-2544071358) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 4. 💪 Opened PR [#4083](https://github.com/public-apis/public-apis/pull/4083) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
