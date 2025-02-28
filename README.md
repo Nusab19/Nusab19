@@ -13,13 +13,13 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/5) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-2. 💪 Opened PR [#5](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/5) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-3. 🎉 Merged PR [#4](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/4) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-4. 💪 Opened PR [#4](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/4) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-5. 🎉 Merged PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-6. 💪 Opened PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
-7. 🗣 Commented on [#16](https://github.com/t3dotgg/unduck/issues/16#issuecomment-2688241073) in [t3dotgg/unduck](https://github.com/t3dotgg/unduck)
+1. 🎉 Merged PR [#6](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/6) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+2. 💪 Opened PR [#6](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/6) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+3. 🎉 Merged PR [#5](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/5) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+4. 💪 Opened PR [#5](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/5) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+5. 🎉 Merged PR [#4](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/4) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+6. 💪 Opened PR [#4](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/4) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+7. 🎉 Merged PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
 <!--END_SECTION:activity-->
 
 ### Skills
