@@ -13,9 +13,9 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-2. 💪 Opened PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-3. 💪 Opened PR [#7](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/7) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
+1. 💪 Opened PR [#35](https://github.com/Contest-Hive/Contest-Hive/pull/35) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 🎉 Merged PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+3. 💪 Opened PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4. 💪 Opened PR [#5](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/5) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
 5. 🎉 Merged PR [#4](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/4) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
 6. 💪 Opened PR [#4](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/4) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
