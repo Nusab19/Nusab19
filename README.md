@@ -13,8 +13,8 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/The-Quran-Project/Quran-Audio/issues/1#issuecomment-2770379597) in [The-Quran-Project/Quran-Audio](https://github.com/The-Quran-Project/Quran-Audio)
-2. 🗣 Commented on [#19](https://github.com/The-Quran-Project/Quran-API/issues/19#issuecomment-2764228175) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🎉 Merged PR [#37](https://github.com/Contest-Hive/Contest-Hive/pull/37) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 💪 Opened PR [#37](https://github.com/Contest-Hive/Contest-Hive/pull/37) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 🗣 Commented on [#18](https://github.com/The-Quran-Project/Quran-API/pull/18#issuecomment-2764226643) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 🗣 Commented on [#17](https://github.com/The-Quran-Project/Quran-API/issues/17#issuecomment-2764220744) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
