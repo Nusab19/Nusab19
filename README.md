@@ -13,8 +13,8 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Contest-Hive/Contest-Hive/pull/38) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-2. 🎉 Merged PR [#37](https://github.com/Contest-Hive/Contest-Hive/pull/37) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🔒 Closed issue [#19](https://github.com/The-Quran-Project/Quran-API/issues/19) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2. 🔒 Closed issue [#20](https://github.com/The-Quran-Project/Quran-API/issues/20) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 3. 💪 Opened PR [#37](https://github.com/Contest-Hive/Contest-Hive/pull/37) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4. 🗣 Commented on [#17](https://github.com/The-Quran-Project/Quran-API/issues/17#issuecomment-2764220744) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
