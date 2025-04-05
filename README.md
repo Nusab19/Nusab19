@@ -13,10 +13,10 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/Contest-Hive/Contest-Hive/pull/39) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-2. 💪 Opened PR [#39](https://github.com/Contest-Hive/Contest-Hive/pull/39) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-3. 💪 Opened PR [#37](https://github.com/Contest-Hive/Contest-Hive/pull/37) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-4. 🗣 Commented on [#17](https://github.com/The-Quran-Project/Quran-API/issues/17#issuecomment-2764220744) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🎉 Merged PR [#40](https://github.com/Contest-Hive/Contest-Hive/pull/40) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 💪 Opened PR [#40](https://github.com/Contest-Hive/Contest-Hive/pull/40) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+3. 🎉 Merged PR [#39](https://github.com/Contest-Hive/Contest-Hive/pull/39) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+4. 💪 Opened PR [#39](https://github.com/Contest-Hive/Contest-Hive/pull/39) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 5. 🎉 Merged PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 6. 💪 Opened PR [#34](https://github.com/Contest-Hive/Contest-Hive/pull/34) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 7. 🎉 Merged PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
