@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. B
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IamTheSadik/Toph-Server/pull/1) in [IamTheSadik/Toph-Server](https://github.com/IamTheSadik/Toph-Server)
+1. 🗣 Commented on [#21](https://github.com/The-Quran-Project/Quran-API/issues/21#issuecomment-2848535761) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 2. 💪 Opened PR [#1](https://github.com/IamTheSadik/Toph-Server/pull/1) in [IamTheSadik/Toph-Server](https://github.com/IamTheSadik/Toph-Server)
 3. 💪 Opened PR [#47](https://github.com/Contest-Hive/Contest-Hive/pull/47) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4. 💪 Opened PR [#45](https://github.com/Contest-Hive/Contest-Hive/pull/45) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
