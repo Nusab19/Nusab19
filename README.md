@@ -1,6 +1,6 @@
 # Introduction
 
-I'm Nusab Taha, a Full Stack Web Developer. Primarily I use Next.js and React. But depending on the needs, I also use other frameworks.
+I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and **Python**. But depending on the needs, I also use other frameworks and tools.
 
 ## About Me
 
