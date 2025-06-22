@@ -13,8 +13,8 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/deniscerri/ytdlnis/issues/559#issuecomment-2993516396) in [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
-2. 🗣 Commented on [#1](https://github.com/t3dotgg/t3-cloneathon/issues/1#issuecomment-2954027586) in [t3dotgg/t3-cloneathon](https://github.com/t3dotgg/t3-cloneathon)
+1. 🗣 Commented on [#559](https://github.com/deniscerri/ytdlnis/issues/559#issuecomment-2993647746) in [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
+2. 🗣 Commented on [#559](https://github.com/deniscerri/ytdlnis/issues/559#issuecomment-2993516396) in [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
 3. 💪 Opened PR [#47](https://github.com/Contest-Hive/Contest-Hive/pull/47) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4. 💪 Opened PR [#45](https://github.com/Contest-Hive/Contest-Hive/pull/45) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 5. 🎉 Merged PR [#40](https://github.com/Contest-Hive/Contest-Hive/pull/40) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
