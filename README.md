@@ -13,12 +13,12 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/deniscerri/ytdlnis/issues/559#issuecomment-2993647746) in [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
-2. 🗣 Commented on [#559](https://github.com/deniscerri/ytdlnis/issues/559#issuecomment-2993516396) in [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
-3. 💪 Opened PR [#47](https://github.com/Contest-Hive/Contest-Hive/pull/47) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-4. 💪 Opened PR [#45](https://github.com/Contest-Hive/Contest-Hive/pull/45) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-5. 🎉 Merged PR [#40](https://github.com/Contest-Hive/Contest-Hive/pull/40) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
-6. 💪 Opened PR [#39](https://github.com/Contest-Hive/Contest-Hive/pull/39) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🎉 Merged PR [#50](https://github.com/Contest-Hive/Contest-Hive/pull/50) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. 💪 Opened PR [#50](https://github.com/Contest-Hive/Contest-Hive/pull/50) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+3. 🎉 Merged PR [#4](https://github.com/Nusab19/Contest-Hive/pull/4) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+4. 💪 Opened PR [#4](https://github.com/Nusab19/Contest-Hive/pull/4) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
+5. 🎉 Merged PR [#49](https://github.com/Contest-Hive/Contest-Hive/pull/49) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+6. 💪 Opened PR [#49](https://github.com/Contest-Hive/Contest-Hive/pull/49) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 7. 🎉 Merged PR [#3](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io/pull/3) in [muslimDevCommunity/muslimDevCommunity.github.io](https://github.com/muslimDevCommunity/muslimDevCommunity.github.io)
 <!--END_SECTION:activity-->
 
