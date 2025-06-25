@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Contest-Hive/Contest-Hive/pull/50) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+1. 🗣 Commented on [#24](https://github.com/The-Quran-Project/Quran-API/issues/24#issuecomment-3003611229) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 2. 💪 Opened PR [#50](https://github.com/Contest-Hive/Contest-Hive/pull/50) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 🎉 Merged PR [#4](https://github.com/Nusab19/Contest-Hive/pull/4) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
 4. 💪 Opened PR [#4](https://github.com/Nusab19/Contest-Hive/pull/4) in [Nusab19/Contest-Hive](https://github.com/Nusab19/Contest-Hive)
