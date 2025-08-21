@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/The-Quran-Project/Quran-API/issues/26#issuecomment-3082039913) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🗣 Commented on [#318](https://github.com/uidotdev/usehooks/issues/318#issuecomment-3208501559) in [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
 2. 🔒 Closed issue [#26](https://github.com/The-Quran-Project/Quran-API/issues/26) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 3. 🎉 Merged PR [#25](https://github.com/The-Quran-Project/Quran-API/pull/25) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#25](https://github.com/The-Quran-Project/Quran-API/pull/25) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
