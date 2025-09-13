@@ -6,7 +6,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [my website](http://nusab19.pages.dev)
-* ✉️  You can contact me at [nusabtaha33@gmail.com](mailto:nusabtaha33@gmail.com)
+* ✉️  You can contact me at [nusab19@duck.com](mailto:nusab19@duck.com)
 * 🤝  I'm open to collaborating on interesting and useful projects
 * ⚡  Even though I'm a full stack developer, I prefer working in the Backend
 
