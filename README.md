@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/uidotdev/usehooks/issues/318#issuecomment-3366591371) in [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
+1. ❌ Closed PR [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
 2. 🗣 Commented on [#1953](https://github.com/kevquirk/512kb.club/pull/1953#issuecomment-3343758488) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 3. 🗣 Commented on [#27](https://github.com/The-Quran-Project/Quran-API/issues/27#issuecomment-3324013995) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4. 💪 Opened PR [#25](https://github.com/The-Quran-Project/Quran-API/pull/25) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
