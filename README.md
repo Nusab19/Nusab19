@@ -13,7 +13,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Mordoria/unnamed_game_1_v2/pull/10#issuecomment-3393566676) in [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2)
+1. 🗣 Commented on [#2](https://github.com/al-imam/quran-mood-verse/pull/2#issuecomment-3403248960) in [al-imam/quran-mood-verse](https://github.com/al-imam/quran-mood-verse)
 2. 🗣 Commented on [#4](https://github.com/Mordoria/unnamed_game_1_v2/pull/4#issuecomment-3393565261) in [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2)
 3. 🗣 Commented on [#11](https://github.com/Mordoria/unnamed_game_1_v2/pull/11#issuecomment-3393562942) in [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2)
 4. ❌ Closed PR [#29](https://github.com/nomandhoni-cs/blink-eye/pull/29) in [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye)
