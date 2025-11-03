@@ -14,10 +14,10 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1.  Labeled issue [#195](https://github.com/py-pdf/pdfly/issues/195) in [py-pdf/pdfly](https://github.com/py-pdf/pdfly)
-2. ❗ Opened issue [#195](https://github.com/py-pdf/pdfly/issues/195) in [py-pdf/pdfly](https://github.com/py-pdf/pdfly)
-3.  Labeled issue [#194](https://github.com/py-pdf/pdfly/issues/194) in [py-pdf/pdfly](https://github.com/py-pdf/pdfly)
-4. ❗ Opened issue [#194](https://github.com/py-pdf/pdfly/issues/194) in [py-pdf/pdfly](https://github.com/py-pdf/pdfly)
+1. 🔒 Closed issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2.  Labeled issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. ❗ Opened issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
 6. 💪 Opened PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
 7. 🗣 Commented on [#24](https://github.com/The-Quran-Project/Quran-API/issues/24#issuecomment-3003611229) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
