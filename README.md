@@ -14,8 +14,8 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#206](https://github.com/anonfaded/FadCam/issues/206) in [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
-2.  Labeled issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🗣 Commented on [#206](https://github.com/anonfaded/FadCam/issues/206#issuecomment-3485625187) in [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
+2. ❗ Opened issue [#206](https://github.com/anonfaded/FadCam/issues/206) in [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
 3. ❗ Opened issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
