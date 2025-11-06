@@ -14,8 +14,8 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/py-pdf/pdfly/issues/195#issuecomment-3492731264) in [py-pdf/pdfly](https://github.com/py-pdf/pdfly)
-2. ❗ Opened issue [#20](https://github.com/rxliuli/apps.apple.com/issues/20) in [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)
+1.  Labeled issue [#50701](https://github.com/brave/brave-browser/issues/50701) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. ❗ Opened issue [#50701](https://github.com/brave/brave-browser/issues/50701) in [brave/brave-browser](https://github.com/brave/brave-browser)
 3. ❗ Opened issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
