@@ -14,7 +14,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1.  Labeled issue [#50701](https://github.com/brave/brave-browser/issues/50701) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. 💪 Opened PR [#51](undefined) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 2. ❗ Opened issue [#50701](https://github.com/brave/brave-browser/issues/50701) in [brave/brave-browser](https://github.com/brave/brave-browser)
 3. ❗ Opened issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
