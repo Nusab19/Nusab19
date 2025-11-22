@@ -14,7 +14,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/anonfaded/FadCam/issues/206#issuecomment-3526212773) in [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
+1. ❗ Opened issue [#436](https://github.com/athasdev/athas/issues/436) in [athasdev/athas](https://github.com/athasdev/athas)
 2. ❗ Opened issue [#50701](https://github.com/brave/brave-browser/issues/50701) in [brave/brave-browser](https://github.com/brave/brave-browser)
 3. ❗ Opened issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
