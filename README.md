@@ -14,9 +14,9 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1.  Assigned issue [#31](https://github.com/The-Quran-Project/Quran-API/issues/31) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-2. 🗣 Commented on [#31](https://github.com/The-Quran-Project/Quran-API/issues/31#issuecomment-3588699848) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
-3. ❗ Opened issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+1. 🗣 Commented on [#31](https://github.com/The-Quran-Project/Quran-API/issues/31#issuecomment-3588959303) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+2.  Assigned issue [#31](https://github.com/The-Quran-Project/Quran-API/issues/31) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
+3. 🗣 Commented on [#31](https://github.com/The-Quran-Project/Quran-API/issues/31#issuecomment-3588699848) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
 6. 💪 Opened PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
