@@ -14,7 +14,7 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30324](https://github.com/telegramdesktop/tdesktop/pull/30324) in [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
+1. 🗣 Commented on [#5618](https://github.com/kelseyhightower/nocode/pull/5618#issuecomment-3978710389) in [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
 2. ℹ️ Assigned PR [#54](https://github.com/Contest-Hive/Contest-Hive/pull/54) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 3. 💪 Opened PR [#54](https://github.com/Contest-Hive/Contest-Hive/pull/54) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
