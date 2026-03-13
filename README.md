@@ -23,6 +23,11 @@ I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and *
 7. 🗣 Commented on [#24](https://github.com/The-Quran-Project/Quran-API/issues/24#issuecomment-3003611229) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 <!--END_SECTION:activity-->
 
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,next,ts,react,tailwind,mongo,sqlite,figma,)"/>
+</p>
+
 
 ## Contact me at
 - Telegram   : [@Nusab19](https://t.me/Nusab19)
