@@ -2,6 +2,8 @@
 
 I'm Nusab Taha, a Full Stack Developer. Primarily I use **Next.js, React** and **Python**. But depending on the needs, I also use other frameworks and tools.
 
+I am also active in **cybersecurity** -- specifically finding and fixing vulnerabilities. This lets me secure my projects before they go live. 
+
 ## About Me
 
 - I'm based in Bangladesh
