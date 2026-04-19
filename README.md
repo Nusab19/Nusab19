@@ -16,8 +16,8 @@ I am also active in **cybersecurity** -- specifically finding and fixing vulnera
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Eyakin25/eyakin.dev/pull/2) in [Eyakin25/eyakin.dev](https://github.com/Eyakin25/eyakin.dev)
-2. ❗ Opened issue [#1](https://github.com/Eyakin25/eyakin.dev/issues/1) in [Eyakin25/eyakin.dev](https://github.com/Eyakin25/eyakin.dev)
+1. ℹ️ Labeled issue [#54726](https://github.com/brave/brave-browser/issues/54726) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. ❗ Opened issue [#54726](https://github.com/brave/brave-browser/issues/54726) in [brave/brave-browser](https://github.com/brave/brave-browser)
 3. 💪 Opened PR [#54](https://github.com/Contest-Hive/Contest-Hive/pull/54) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4.  Assigned issue [#30](https://github.com/The-Quran-Project/Quran-API/issues/30) in [The-Quran-Project/Quran-API](https://github.com/The-Quran-Project/Quran-API)
 5. 🎉 Merged PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
