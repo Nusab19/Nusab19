@@ -16,9 +16,9 @@ I am also active in **cybersecurity** -- specifically finding and fixing vulnera
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4584](https://github.com/monkeytypegame/monkeytype/issues/4584#issuecomment-4436078570) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-2. 🗣 Commented on [#476](https://github.com/anmol098/waka-readme-stats/issues/476#issuecomment-4416537312) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ℹ️ Labeled issue [#54726](https://github.com/brave/brave-browser/issues/54726) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. 🎉 Merged PR [#55](https://github.com/Contest-Hive/Contest-Hive/pull/55) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+2. ℹ️ Assigned PR [#55](https://github.com/Contest-Hive/Contest-Hive/pull/55) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
+3. 💪 Opened PR [#55](https://github.com/Contest-Hive/Contest-Hive/pull/55) in [Contest-Hive/Contest-Hive](https://github.com/Contest-Hive/Contest-Hive)
 4. ❗ Opened issue [#54726](https://github.com/brave/brave-browser/issues/54726) in [brave/brave-browser](https://github.com/brave/brave-browser)
 5. 🎉 Merged PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
 6. 💪 Opened PR [#1](https://github.com/Nusab19/Quran-API/pull/1) in [Nusab19/Quran-API](https://github.com/Nusab19/Quran-API)
